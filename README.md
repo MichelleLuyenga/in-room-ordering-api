@@ -20,5 +20,3 @@ A robust REST API designed to handle the full lifecycle of a room service orderâ
 *   **Authentication:** JWT (JSON Web Tokens)
 *   **Events:** Webhook delivery system
 
----
-**Role:** Hospitality Technology Engineer | [michellevision.com](https://michellevision.com)
